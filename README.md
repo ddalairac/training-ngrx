@@ -1,3 +1,3 @@
-# training-ngrx
+# Course-ngrx
 Repositorio para pruebas del curso de Angular NGRX
 
